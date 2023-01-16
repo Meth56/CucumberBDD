@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         //We need to copy path Resources folder as following : path from content root
         glue = "Homeworks/Steps", //This is to connect stepsDefinitions with runner class
         //We need to copy path of stepsDefinitions Folder as following: path from source root
-        tags="@HomeworksLab1",//This is the field that we will use to run tags
+        tags="@HomeworksLab2",//This is the field that we will use to run tags
         dryRun=false //This is to get Undefined steps without running scenarios
 )
 

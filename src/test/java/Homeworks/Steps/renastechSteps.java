@@ -4,11 +4,9 @@ import Homeworks.Pages.renastechHomePage;
 import code.utils.BrowserUtils;
 import code.utils.ConfigurationsReader;
 import code.utils.Driver;
-import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
-import org.openqa.selenium.support.ui.Select;
 
 public class renastechSteps extends BrowserUtils {
         renastechHomePage renastechHomePage=new renastechHomePage();
